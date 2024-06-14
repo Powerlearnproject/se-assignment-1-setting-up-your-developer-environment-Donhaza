@@ -1,12 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vbnbTt5m)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15260118&assignment_repo_type=AssignmentRepo)
-# Dev_Setup
-Setup Development Environment
-
-#Assignment: Setting Up Your Developer Environment
-
-#Objective:
-This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
+assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging version control, and collaboration.
 
 #Tasks:
 
@@ -21,19 +13,33 @@ This assignment aims to familiarize you with the tools and configurations necess
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
+ANSWER
+
+* by step window 11 installation*
+1st i donwloaded window 11 iso file from microsoft.com and put it on the empty usb
+once the process complete i eject usb for properly remove
+then i plug usb back and restart a pc then hold f8  key to boot usb before pc turn back
+then i install window and creat account
+
+* step by step visual studio installation*
+1st i visited visualstudio.com and download exe file visual studio community version
+once process completed i double click it for istallation to start
+after all process complete i restated my computer for visual studio to be usedto boot used
+
+
+6. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-6. Configure a Database (MySQL):
+7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-7. Set Up Development Environments and Virtualization (Optional):
+8. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+9. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+10. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
